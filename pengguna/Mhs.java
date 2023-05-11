@@ -1,5 +1,5 @@
 package pengguna;
-// catatan komentar
+// catatan komen1tar
 class Mhs {
     Mhs () {
 
