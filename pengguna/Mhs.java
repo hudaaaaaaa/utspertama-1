@@ -1,5 +1,5 @@
 package pengguna;
-// catatan komentar ardila
+// catatan komentar
 class Mhs {
     Mhs () {
 
